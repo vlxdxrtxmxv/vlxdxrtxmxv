@@ -2,8 +2,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="350"/>
 </div>
-<!--
-**vlxdxrtxmxv/vlxdxrtxmxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -16,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
