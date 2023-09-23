@@ -2,12 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="350"/>
 </div>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/uladzislau-artsemyeu-9389b0292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://instagram.com/vlxdrtmv?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
